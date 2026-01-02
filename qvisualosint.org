@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>QVisualOSINT</title>
+</head>
+<body>
+  <h1>Hello, Welcome to qvisualosint!</h1>
+  <p>qvisualosint coming soon!</p>
+
+  <h2>Visual Intelligence for the Modern OSINT Stack</h2>
+  <p>
+    QVisualOSINT is an all-in-one open-source intelligence platform.
+    Analyze, visualize, and connect data from hundreds of sources.
+  </p>
+</body>
+</html>
