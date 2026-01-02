@@ -15,3 +15,46 @@
   </p>
 </body>
 </html>
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>QVisualOSINT</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="navbar">
+    <div class="logo"> QVisualOSINT</div>
+    <nav>
+        <a href="#">Platform</a>
+        <a href="#">Developers</a>
+        <a href="#">Pricing</a>
+        <a href="#">Docs</a>
+        <a href="#" class="login">Login</a>
+        <a href="#" class="signup">Sign Up</a>
+    </nav>
+</header>
+
+<section class="hero">
+    <div class="badge">✨ Trusted by OSINT Researchers</div>
+
+    <h1>
+        Visual Intelligence for the<br>
+        Modern OSINT Stack
+    </h1>
+
+    <p>
+        QVisualOSINT is an all-in-one open-source intelligence platform.
+        Analyze, visualize, and connect data from hundreds of sources.
+    </p>
+
+    <div class="buttons">
+        <a class="btn primary" href="#">Start for Free</a>
+        <a class="btn secondary" href="#">Contact</a>
+    </div>
+</section>
+
+</body>
+</html> 
